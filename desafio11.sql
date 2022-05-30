@@ -1,2 +1,1 @@
-SELECT supplier_id FROM northwind.purchase_order
-WHERE supplier_id BETWEEN 1 AND 3;
+SELECT notes from northwind.purchase_orders where notes like 'Purchase generated based on Order #3%';
