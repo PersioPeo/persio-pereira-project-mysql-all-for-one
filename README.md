@@ -43,7 +43,7 @@ Você pode adicionar outros arquivos se necessário. Qualquer dúvida, procure u
 - Orientações
 - baleiaRodando no Docker vs Localmente
 ---
-### - Com Docker;
+###  Com Docker;
 avisoAntes de começar, seu docker-compose precisa estar na versão 1.29 ou superior.Veja aqui ou na documentação como instalá-lo. No primeiro artigo, você pode substituir onde está com 1.26.0por 1.29.2.
 
  - fonte de informaçãoRode os serviços nodee dbcom o comando docker-compose up -d.
@@ -68,7 +68,7 @@ fonte de informaçãoInstale as dependências [ Caso existam ] comnpm install . 
 * teste de sequela
 
 ---
-### - Sem Docker;
+###  Sem Docker;
  - fonte de informaçãoRode o comando npm startpara iniciar o servidor em modo de desenvolvimento.
 
  - fonte de informaçãoRode o comando npm testpara executar os testes.
